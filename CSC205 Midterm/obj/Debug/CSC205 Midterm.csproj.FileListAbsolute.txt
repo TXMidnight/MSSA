@@ -1,0 +1,13 @@
+C:\Users\MrSte\source\repos\CSC205 Midterm\obj\Debug\CSC205 Midterm.csprojAssemblyReference.cache
+C:\Users\MrSte\source\repos\CSC205 Midterm\bin\Debug\CSC205 Midterm.exe.config
+C:\Users\MrSte\source\repos\CSC205 Midterm\bin\Debug\CSC205 Midterm.exe
+C:\Users\MrSte\source\repos\CSC205 Midterm\bin\Debug\CSC205 Midterm.pdb
+C:\Users\MrSte\source\repos\CSC205 Midterm\obj\Debug\CSC205 Midterm.exe
+C:\Users\MrSte\source\repos\CSC205 Midterm\obj\Debug\CSC205 Midterm.pdb
+\\stmartin.edu\dfs\users\Thomas.Stein\Downloads\CSC205 Midterm\bin\Debug\CSC205 Midterm.exe.config
+\\stmartin.edu\dfs\users\Thomas.Stein\Downloads\CSC205 Midterm\bin\Debug\CSC205 Midterm.exe
+\\stmartin.edu\dfs\users\Thomas.Stein\Downloads\CSC205 Midterm\bin\Debug\CSC205 Midterm.pdb
+\\stmartin.edu\dfs\users\Thomas.Stein\Downloads\CSC205 Midterm\obj\Debug\CSC205 Midterm.csprojAssemblyReference.cache
+\\stmartin.edu\dfs\users\Thomas.Stein\Downloads\CSC205 Midterm\obj\Debug\CSC205 Midterm.csproj.CoreCompileInputs.cache
+\\stmartin.edu\dfs\users\Thomas.Stein\Downloads\CSC205 Midterm\obj\Debug\CSC205 Midterm.exe
+\\stmartin.edu\dfs\users\Thomas.Stein\Downloads\CSC205 Midterm\obj\Debug\CSC205 Midterm.pdb
